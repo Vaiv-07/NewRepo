@@ -41,7 +41,7 @@ def is_nearly_equal(a, b):
 
 
 # Example usage
-string1 = input("Enter string1 : ")
-string2 = input("Enter string 2 : ")
+string1 = input("Enter string number 1 : ")
+string2 = input("Enter string number 2 : ")
 result = is_nearly_equal(string1, string2)
 print(result)
